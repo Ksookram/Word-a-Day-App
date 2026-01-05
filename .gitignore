@@ -5,3 +5,4 @@ ios/
 dist/
 .env
 .DS_Store
+.vscode/
